@@ -1,4 +1,6 @@
 <h1 align="center">
+  <img src="logo.png" alt="Cryptowatch">
+  <br />
   Cryptowatch
 </h1>
 
@@ -7,7 +9,6 @@ distributions.</p>
 
 ## Install
 
-    sudo apt install snapd-xdg-open
     sudo snap install cryptowatch
 
 ([Don't have snapd installed?](https://snapcraft.io/docs/core/install))
