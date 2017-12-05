@@ -56,3 +56,5 @@ If you have any questions, [post in the Snapcraft forum](https://forum.snapcraft
 ## The Snapcrafters
 
 | [![m4sk1n](https://avatars2.githubusercontent.com/u/21127288?s=128)](https://github.com/m4sk1n/) |
+| :---: |
+| [m4sk1n](https://github.com/m4sk1n/) |
